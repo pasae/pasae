@@ -1,0 +1,167 @@
+<!-- Portfolio Modals -->
+    <!-- Use the modals below to showcase details about your portfolio projects! -->
+
+    <!-- Portfolio Modal 1 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <h2><a href="fastersv.org">FASTERCON 2017</a></h2>
+                                <p class="item-intro text-muted">Sunday, October 9, 2016</p>
+                                <p>FASTERCON was the inaugural annual conference hosted at UC Berkeley by FASTER (Filipino Americans in Silicon Valley Tech) whose aim was to create, connect, and cultivate a valuable movement of Filipino Americans in the technology industry, with a focus on the San Francisco Bay Area. This event is co-organized by FASTER, UCB PASS (Pilipino Academic Student Services, UCB PASAE (Pilipino Association of Scientists, Architects and Engineers),and UCB PAAC (Cal Pilipino American Alumni Chapter).
+This year's conference was focused on highlighting and strengthening the network of Filipino American technology professionals in the Bay Area and included several keynote speeches on the future of Filipino Americans in tech, workshops on entrepreneurship and design, and panel discussions on engineering and professional development for underrepresented communities in the industry.</p>
+                                <!-- <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 2 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <h2>General Meetings</h2>
+                                <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
+                                <!-- <img class="img-responsive img-centered" src="img/portfolio/startup-framework-preview.png" alt=""> -->
+                                <p>Twice a semester, PASAE holds a general meeting where we learn something new in the fields of science, architecture, or engineering. Some of our core or members share a cool thing they may or may not be an expert on through fun experiments or crazy videos. Everyone, members and non-members alike, can come! We always have really good free food at the end...</p>
+                                <!-- <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 3 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <a href="https://www.facebook.com/media/set/?set=a.1816972571867562.1073741917.1379433598954797&type=1&l=d44eb27bd2"><h2>Intern Development Day</h2></a>
+                                <p class="item-intro text-muted">September 16, 2017</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/idd_small.jpg" alt="" style="max-width: 100%;">
+                                <p>Intern Development Day is the kickoff event for our internship program. Interns learn about PASAE--its mission and history, meet the people on core, and get to know the other interns in their class. Most importantly, they discover what they will be interning for! The day is filled with fun games, food, laughing, and, of course, a scavenger hunt.</p>
+                                <!-- <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 4 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <a href="https://www.facebook.com/media/set/?set=a.1845498649014954.1073741923.1379433598954797&type=1&l=b5b125969d"><h2>PASAE'ce Skating</h2></a>
+                                <p>PASAE’ce skating was a chance for both interns and core members to come together at the Oakland Ice Center for an afternoon of fun and destressing. Some PASAE members got a chance to learn how to ice skate from more experienced members, while all members got a chance to take selfies, pose in silly poses, and (not) fall flat on their faces on ice.</p>
+                                <!-- <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 5 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <a href="https://www.facebook.com/media/set/?set=a.1838749376356548.1073741922.1379433598954797&type=1&l=4bb2497c34"><h2>Wine and Cheese Mixer</h2></a>
+                                <p class="item-intro text-muted">Saturday, October 29, 2016</p>
+                                <!-- <img class="img-responsive img-centered" src="img/portfolio/escape-preview.png" alt=""> -->
+                                <p>The Wine and Cheese Mixer is an annual event that brings alumni, professionals, and current students together to interact on a more personal basis. Each participant enjoyed refreshments while current students were able to gain advice for their undergraduate studies and beyond. Alumni and professionals shared their experiences in academics and industry to help prepare students in future endeavours.  </p>
+                                <!-- <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Portfolio Modal 6 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here -->
+                                <a href="https://www.facebook.com/media/set/?set=a.1845602299004589.1073741924.1379433598954797&type=1&l=55f273bf1a"><h2>Bay Area Science Festival</h2></a>
+                                <p class="item-intro text-muted">November 5, 2016</p>
+                                <p>This year PASAE, in association with Science @ Cal, participated in the Bay Area Science Festival (BASF), held at AT&T Park in San Francisco, by teaching children about centripetal force, Hooke’s Law, and friction. It is an annual event produced by the University of California, San Francisco (UCSF) to teach children the role and importance of technology and science in the world. The festival invites various science institutions ranging from student run organizations around the bay area to large corporations, such as Google and NASA, to provide exhibitions and hands-on activities for kids to interact with, learn, and enjoy. </p>
+                                <!-- <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt=""> -->
+                                <!-- <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
